@@ -36,7 +36,7 @@ footer img{
 }
 
 #newsletter{
-    height: 80%;
+    height: 55%;
 }
 #email{
     width: 65%;
@@ -46,12 +46,12 @@ footer img{
     outline-color: rgb(238, 238, 134);
 }
 #suscribirse{
-    width: 22%;
+    width: fit-content;
     height: 30px;
     border-radius: 2px;
 }
 #redesF{
-    display: flex;
+    display:flex;
     width: 1%;
 }
 @media(max-width: 1440px){
